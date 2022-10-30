@@ -1,5 +1,3 @@
 <template>
-  <main>
-    Page Content
-  </main>
+  <main>Page Content</main>
 </template>
