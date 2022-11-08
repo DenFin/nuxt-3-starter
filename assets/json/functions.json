@@ -1,0 +1,16 @@
+{
+  "dev": {
+    "functions": [
+      {
+        "name": "func-retailers-indexer-dev",
+        "description": "Dies ist die Azure Function für die Fachpartnersuche.",
+        "url": "https://func-retailers-indexer-dev.azurewebsites.net/api/RetailerImporterHttpTrigger?code=ZntuI27aBU7Za3zKQ6lP5Rif8N6BszG7njAfQMd5dAmzAzFucnuOjQ=="
+      },
+      {
+        "name": "func-product-indexer-dev",
+        "description": "Dies ist die Azure Function für den Produkt Indexer",
+        "url": "https://productindexerdev.azurewebsites.net/api/ProductIndexOrchestratorStart?code=lvSTgPQOTXAS41m-usV3PoBKSLjZIS4vHp5L-s4O5FgHAzFuPZi4Eg=="
+      }
+    ]
+  }
+}
