@@ -1,0 +1,4 @@
+@import "@kernpunkt/bega-component-library/style";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
