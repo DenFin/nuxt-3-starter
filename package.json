@@ -10,7 +10,7 @@
     "lint:fix": "yarn run lint --fix"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^6.2.0",
+    "@nuxtjs/tailwindcss": "^6.6.5",
     "@vue/eslint-config-typescript": "^11.0.2",
     "eslint-config-prettier": "^8.6.0",
     "eslint": "^8.31.0",
